@@ -1,0 +1,44 @@
+#header{
+    background-color: rgb(240, 214, 181);
+    color: darkcyan;
+    width: auto;
+    height: 100px;
+}
+#menu{
+    background-color: rgb(236, 188, 172);
+    width: 600px;
+    height: 1000px;
+    float: left;
+}
+#footer{
+    background-color: rgb(240, 214, 181);
+    color: darkcyan;
+    width: auto;
+    height: 100px;
+}
+.clear{
+    width: auto;
+    height: 5px;
+    clear: both;
+}
+.post_2{
+    width:min-content;
+    height: 1000px;
+    float: left;
+}
+.post{
+    background-color: rgb(185, 238, 185);
+    color: grey;
+    width:1000px;
+    height: 500px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+}
+.class_li {
+    width: 400px;
+    height: 170px;
+    border: 2px solid darkseagreen;
+    color: darkcyan;
+    text-align: center;
+}
